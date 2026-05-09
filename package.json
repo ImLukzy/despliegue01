@@ -1,0 +1,14 @@
+{
+  "name": "despliegue01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lukas <lukas.melgar@tecsup.edu.pe>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^17.4.2",
+    "nodemon": "^3.1.14"
+  }
+}
